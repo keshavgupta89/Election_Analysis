@@ -51,4 +51,4 @@ a) Check for the column which has the name of the candidate in the CSV file, 'le
 
 b) Similarly, check for the column which has the name of the county in the CSV file, 'lets say the its in column 8. Simply replace the code on line 50 with county_name_row = row[7] (8-1)=7, again since the same logic apply on this one too, that is column index starts at 0.
 
-By making any of the follwing changes you can get the desired result.
+By making any of two (1) or (2) changes you can get the desired result.
